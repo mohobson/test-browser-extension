@@ -1,16 +1,16 @@
-# Hello Extensions - Browser Extension Template
+# Browser Extension Template
 
 This browser extension serves as a basic template for creating browser extensions. It is derived from the [Google Chrome extension tutorial](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world).
 
 ## Introduction
 
-This browser extension template provides a simple structure to kickstart your browser extension development. It consists of an HTML file, a JavaScript file, and a manifest file, which together create a basic extension that displays a popup with the message "Hello Extensions".
+This browser extension template consists of an HTML file, a JavaScript file, and a manifest file, which together create a basic extension that displays a popup with the message "Hello Extensions".
 
 ## Usage
 
 To use this template for your own extension development, follow these steps:
 
-1. Clone or download this repository to your local machine.
+1. Clone or download this repository.
 2. Modify the files to suit your extension's functionality and appearance:
    - `hello.html`: Customize the HTML content of your extension's popup.
    - `popup.js`: Add JavaScript logic as needed for your extension.
@@ -34,6 +34,3 @@ To use this template for your own extension development, follow these steps:
 
 The extension icon is provided in the file `browser-ext-wheel.png`. You can replace this with your own icon by modifying the `default_icon` property in the `manifest.json` file to point to your desired icon file.
 
-## License
-
-This browser extension template is provided under the [MIT License](LICENSE).
